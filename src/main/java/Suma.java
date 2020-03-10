@@ -4,4 +4,7 @@ public class Suma {
         return a+b;
     }
 
+    public double sumarDouble(int a, int b) {
+        return a+b;
+    }
 }
